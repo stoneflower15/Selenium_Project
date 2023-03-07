@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/02_FirstSeleniumWebDriverTests/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02_FirstSeleniumWebDriverTests/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_03_DuplicationsAndElementsFindingInSeleniumWebDriverTests/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_03_DuplicationsAndElementsFindingInSeleniumWebDriverTests/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_04_FindingElementsWithCss/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_04_FindingElementsWithCss/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_05_FindingElementsWithCssContinue/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_05_FindingElementsWithCssContinue/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_06_ComplexCSSLocatorsAndElementsWaiting/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_06_ComplexCSSLocatorsAndElementsWaiting/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_07_PracticeInWritingAutotests/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_07_PracticeInWritingAutotests/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_08_XPathLocators/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_08_XPathLocators/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/duplicationsAndElementsFindingInSeleniumWebDriver/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/duplicationsAndElementsFindingInSeleniumWebDriver/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
